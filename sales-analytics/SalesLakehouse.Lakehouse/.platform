@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "SalesLakehouse",
+    "description": "Medallion bronze/silver/gold for Sales Analytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4eadb5ec-41ee-533b-8354-9398409aeb05"
+  }
+}
